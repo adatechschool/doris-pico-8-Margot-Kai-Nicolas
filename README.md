@@ -17,10 +17,10 @@ Quel public?
 
 Dans quel univers? (direction artistique? Définir une charte graphique)
  Chaque saison aura sa caractéristique.
- Printemps : plaine
- Ete : palmier, plage, incendies
- Automne : forêt
- Hiver : lac de glace
+ Printemps : plaine , pollen, asthme.
+ Ete : palmier, plage, incendies, allergies, orages violents, l'été est plus long d'une dizaine de jours par rapport aux autres saisons.
+ Automne : forêt, les feuilles se colorent plus tardivement, les couleurs atténuées, s'il fait très sec les arbres perdent leurs feuilles plus tôt.
+ Hiver : lac de glace , les moustiques ne meurent plus l'hiver il ne fait pas froid assez longtemps.
 
 Quel(s) personnage(s)? Quel est l'histoire du héro?
  Roger. Il en a marre de la pollution et du réchauffement climatique.
@@ -34,3 +34,6 @@ Quel gameplay? (l'expérience de jeu)
 
 
 Possibilité de travailler en mob programming pour l'ajout des fonctions.
+
+Elements de gameplay :
+mouvements du personnage, éléments de décors, ajout de features pour plus tard
