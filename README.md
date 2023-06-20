@@ -1,6 +1,5 @@
-# doris-pico-8-MargotHuet
-test test 
-retest
+# doris-pico-8-Margot-Kai-Nicolas
+
 20/06/2023
 
 Game design:
@@ -34,6 +33,9 @@ Quel gameplay? (l'expérience de jeu)
 
 
 Possibilité de travailler en mob programming pour l'ajout des fonctions.
+<<<<<<< HEAD
 
 Elements de gameplay :
 mouvements du personnage, éléments de décors, ajout de features pour plus tard
+=======
+>>>>>>> 527596caf0c0a24805acb9cb4eb9c07b7c699022
