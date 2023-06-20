@@ -1,6 +1,5 @@
-# doris-pico-8-MargotHuet
-test test 
-retest
+# doris-pico-8-Margot-Kai-Nicolas
+
 20/06/2023
 
 Game design:
