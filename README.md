@@ -1,5 +1,5 @@
 # doris-pico-8-Margot-Kai-Nicolas
-hello
+
 20/06/2023
 
 Game design:
