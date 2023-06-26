@@ -37,7 +37,7 @@ function init_game()
 			landed=false
 	}
 	
-	mob={sp=10,x=64,y=104,speed=2}
+	mob={sp=10,x=64,y=104,speed=1,width=8,height=8,collided=false}
 	
 	gravity=0.3
 	friction=0.85
@@ -108,12 +108,36 @@ function update_game()
 	end
 	camera(cam_x,0)
 	end
+	limit=296
+	start=64
 	
+	move_right=true
+	move_left=false
+	
+	function move_mob()
+		if(mob.x == 64) then 
+		move_right = true
+		end
+		if(mob.x == 296) then 
+		move_left = true
+		move_right = false
+		end
+ 	if (move_right) then 
+		mob.x+=1
+		elseif (move_left) then
+		mob.x-=1
+		end
+ end
+ 
+
+--	end
+--end
 
 mob_anim_time=0
 mob_anim_wait=.25
+
 function update_mob()
-mob.x+=1
+			move_mob()
    if time() - mob_anim_time > mob_anim_wait then
 			mob.sp+=1
 			mob_anim_time=time()
