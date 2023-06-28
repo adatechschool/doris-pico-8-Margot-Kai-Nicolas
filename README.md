@@ -9,6 +9,7 @@ Les questions à se poser:
 Le pitch détaillé du jeu? (scénario)
  Le pitch : expliquer en 5-20min en quoi le jeu est intéressant, la manière dont il se joue et l'expérience joueur visée.
  Un jeu de plateforme divertissant tout public, dans la lignée d'un Mario bros. Sur le thème de l'écologie au fil des 4 saisons.
+ 
  Titre: Ecotopia.
 
 Quel public?
@@ -36,3 +37,7 @@ Possibilité de travailler en mob programming pour l'ajout des fonctions.
 
 Elements de gameplay :
 mouvements du personnage, éléments de décors, ajout de features pour plus tard
+
+Qu'est-ce qui a bien fonctionné: la repartition des tâches?, map, la physique du personnage, mob-programming
+
+Qu'est-ce qui a moins bien fonctionné: git, faire apparaître le mob et ensuite faire une boucle pour son déplacement, beaucoup de features/fonctionnalités à implémenter
